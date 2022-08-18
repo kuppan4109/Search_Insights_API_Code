@@ -1,0 +1,21 @@
+
+[paths]
+
+data_path = D:\R&D\Text to SQL - II\Phase-3\Data\
+model_path = D:\R&D\Text to SQL - II\Phase-3\Models\
+
+[file]
+
+data_name = Super_store
+data_type = xlsx
+
+[table]
+
+table_name = Super_store
+
+[database]
+
+IP = 192.168.1.67
+DB = Usecases
+UN = Analytics
+PWD = Duc3n#@!

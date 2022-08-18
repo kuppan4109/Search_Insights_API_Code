@@ -1,0 +1,145 @@
+alias,columns
+years with current manager,years_with_current_manager
+years since last promotion,years_since_last_promotion
+training times last year,training_times_last_year
+number of companies worked,number_of_companies_worked
+percent salary hike,percent_salary_hike
+time of over,over_time
+stock option level,stock_option_level
+satisfaction of relationship,relationship_satisfaction
+rating of performance,performance_rating
+level of job,job_level
+hike salary percent,percent_salary_hike
+salary percent hike,percent_salary_hike
+satisfaction of environment,environment_satisfaction
+home from distance,distance_from_home
+role of job,job_role
+level option stock,stock_option_level
+rate of monthly,monthly_rate
+from distance home,distance_from_home
+distance from home,distance_from_home
+income of monthly,monthly_income
+satisfaction of job,job_satisfaction
+travel of business,business_travel
+status of marital,marital_status
+rate of daily,daily_rate
+option stock level,stock_option_level
+involvement of job,job_involvement
+balance life work,work_life_balance
+id of employee,employee_id
+currentrole in years,years_in_currentrole
+in years currentrole,years_in_currentrole
+years in currentrole,years_in_currentrole
+rate of hourly,hourly_rate
+company at years,years_at_company
+at years company,years_at_company
+years at company,years_at_company
+total working years,total_working_years
+field of education,education_field
+life work balance,work_life_balance
+work life balance,work_life_balance
+years working total,total_working_years
+working total years,total_working_years
+job satisfaction,job_satisfaction
+job involvement,job_involvement
+role job,job_role
+job role,job_role
+involvement job,job_involvement
+level job,job_level
+satisfaction job,job_satisfaction
+job level,job_level
+rate hourly,hourly_rate
+marital status,marital_status
+environment satisfaction,environment_satisfaction
+status marital,marital_status
+relationship satisfaction,relationship_satisfaction
+years since,years_since_last_promotion
+years in,years_in_currentrole
+years at,years_at_company
+work life,work_life_balance
+training times,training_times_last_year
+total working,total_working_years
+stock option,stock_option_level
+satisfaction relationship,relationship_satisfaction
+rating performance,performance_rating
+monthly income,monthly_income
+performance rating,performance_rating
+percent salary,percent_salary_hike
+time over,over_time
+over time,over_time
+number of,number_of_companies_worked
+rate monthly,monthly_rate
+monthly rate,monthly_rate
+income monthly,monthly_income
+hourly rate,hourly_rate
+years with,years_with_current_manager
+satisfaction environment,environment_satisfaction
+employee id,employee_id
+travel business,business_travel
+business travel,business_travel
+distance from,distance_from_home
+daily rate,daily_rate
+education field,education_field
+field education,education_field
+rate daily,daily_rate
+id employee,employee_id
+total_working_years,total_working_years
+training_times_last_year,training_times_last_year
+relationship_satisfaction,relationship_satisfaction
+performance_rating,performance_rating
+percent_salary_hike,percent_salary_hike
+over_time,over_time
+number_of_companies_worked,number_of_companies_worked
+monthly_rate,monthly_rate
+work_life_balance,work_life_balance
+monthly_income,monthly_income
+years_at_company,years_at_company
+years_in_currentrole,years_in_currentrole
+stock_option_level,stock_option_level
+job_satisfaction,job_satisfaction
+marital_status,marital_status
+years_with_current_manager,years_with_current_manager
+job_role,job_role
+job_level,job_level
+job_involvement,job_involvement
+hourly_rate,hourly_rate
+gender,gender
+environment_satisfaction,environment_satisfaction
+employee_id,employee_id
+education_field,education_field
+education,education
+distance_from_home,distance_from_home
+department,department
+daily_rate,daily_rate
+business_travel,business_travel
+years_since_last_promotion,years_since_last_promotion
+old_age,age
+maturate,age
+eld,age
+grammatical_gender,gender
+sexuality,gender
+genders,gender
+attrition,attrition
+educations,education
+Department_of_Education,education
+Education_Department,education
+didactics,education
+pedagogy,education
+instruction,education
+educational_activity,education
+departments,department
+section,department
+attritions,attrition
+abrasion,attrition
+contriteness,attrition
+detrition,attrition
+corrasion,attrition
+contrition,attrition
+ages,age
+years,age
+sex,gender
+historic_period,age
+age,age
+employee,employee_id
+education backgroud,education_field
+salary,monthly_income

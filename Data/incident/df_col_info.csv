@@ -1,0 +1,186 @@
+alias,columns
+total of affected contact center services,total_of_affected_contact_center_services
+total of affected messaging services,total_of_affected_messaging_services
+total of affected voice services,total_of_affected_voice_services
+bell severity change log,bell_severity_change_log
+external system vendor name,external_system_vendor_name
+miss of justifiable,justifiable_miss
+bell native severity,bell_native_severity
+fr classification incident,incident_classification_fr
+classification incident fr,incident_classification_fr
+incident classification fr,incident_classification_fr
+justification of sla,sla_justification
+en classification incident,incident_classification_en
+classification incident en,incident_classification_en
+incident classification en,incident_classification_en
+incident of billable,billable_incident
+severity native bell,bell_native_severity
+severity of customer,customer_severity
+name of customer,customer_name
+severity of bell,bell_severity
+code of customer,customer_code
+code of service,service_code
+name of group,group_name
+number ticket external,external_ticket_number
+ticket external number,external_ticket_number
+name of site,site_name
+external ticket number,external_ticket_number
+native bell severity,bell_native_severity
+accountable of bell,bell_accountable
+inexcusable down time,inexcusable_down_time
+by of caused,caused_by
+description of short,short_description
+source of discovery,discovery_source
+tpending vendor resolution,tpending_vendor_resolution
+name of month,month_name
+vendor tpending resolution,tpending_vendor_resolution
+resolution vendor tpending,tpending_vendor_resolution
+date of incident,incident_date
+bell finalseverity changedate,bell_finalseverity_changedate
+sla of applied,applied_sla
+down inexcusable time,inexcusable_down_time
+time down inexcusable,inexcusable_down_time
+name of device,device_name
+time down excusable,excusable_down_time
+finalseverity bell changedate,bell_finalseverity_changedate
+changedate finalseverity bell,bell_finalseverity_changedate
+cause of root,root_cause
+down excusable time,excusable_down_time
+excusable down time,excusable_down_time
+inexcusable down,inexcusable_down_time
+total of,total_of_affected_messaging_services
+description short,short_description
+short description,short_description
+incident billable,billable_incident
+external ticket,external_ticket_number
+excusable down,excusable_down_time
+bell severity,bell_severity
+external system,external_system_vendor_name
+severity bell,bell_severity
+tpending vendor,tpending_vendor_resolution
+customer severity,customer_severity
+severity customer,customer_severity
+accountable bell,bell_accountable
+bell accountable,bell_accountable
+billable incident,billable_incident
+name group,group_name
+name device,device_name
+caused by,caused_by
+incident classification,incident_classification_fr
+bell native,bell_native_severity
+bell finalseverity,bell_finalseverity_changedate
+root cause,root_cause
+cause root,root_cause
+by caused,caused_by
+sla justification,sla_justification
+applied sla,applied_sla
+sla applied,applied_sla
+incident date,incident_date
+date incident,incident_date
+month name,month_name
+name month,month_name
+device name,device_name
+justification sla,sla_justification
+customer code,customer_code
+name site,site_name
+site name,site_name
+source discovery,discovery_source
+group name,group_name
+code service,service_code
+service code,service_code
+code customer,customer_code
+name customer,customer_name
+customer name,customer_name
+discovery source,discovery_source
+justifiable miss,justifiable_miss
+miss justifiable,justifiable_miss
+ttnotifies,ttnotify
+tbfs,tbf
+availability,availability
+accessibility,availability
+handiness,availability
+availableness,availability
+mttrs,mttr
+ttdispatches,ttdispatch
+ttrestores,ttrestore
+ttresponds,ttrespond
+tbsis,tbsi
+Taos,taos
+tao,taos
+Tao,taos
+Taoist,taos
+customer_name,customer_name
+provinces,province
+discovery_source,discovery_source
+tbsi,tbsi
+inexcusable_down_time,inexcusable_down_time
+excusable_down_time,excusable_down_time
+ttnotify,ttnotify
+ttrespond,ttrespond
+ttdispatch,ttdispatch
+ttrestore,ttrestore
+tbf,tbf
+taos,taos
+total_of_affected_voice_services,total_of_affected_voice_services
+total_of_affected_messaging_services,total_of_affected_messaging_services
+total_of_affected_contact_center_services,total_of_affected_contact_center_services
+justifiable_miss,justifiable_miss
+incident_classification_en,incident_classification_en
+sla_justification,sla_justification
+tpending_vendor_resolution,tpending_vendor_resolution
+short_description,short_description
+state,province
+province,province
+service_code,service_code
+group_name,group_name
+site_name,site_name
+device_name,device_name
+incidents,incidents
+external_ticket_number,external_ticket_number
+external_system_vendor_name,external_system_vendor_name
+bell_severity,bell_severity
+customer_severity,customer_severity
+status,status
+resolution,resolution
+bell_accountable,bell_accountable
+billable_incident,billable_incident
+floor,floor
+city,city
+incident_classification_fr,incident_classification_fr
+bell_native_severity,bell_native_severity
+bell_finalseverity_changedate,bell_finalseverity_changedate
+bell_severity_change_log,bell_severity_change_log
+resolutions,resolution
+customer_code,customer_code
+dump,floor
+coldcock,floor
+flooring,floor
+blow_out_of_the_water,floor
+story,floor
+base,floor
+floors,floor
+metropolis,city
+urban_center,city
+cities,city
+responsibility,province
+result,resolution
+closure,resolution
+declaration,resolution
+root_cause,root_cause
+caused_by,caused_by
+applied_sla,applied_sla
+incident_date,incident_date
+month_name,month_name
+mttr,mttr
+incident,incidents
+resolving,resolution
+condition,status
+position,status
+firmness,resolution
+firmness_of_purpose,resolution
+availabilities,availability
+incident_number,incidents
+customer,customer_name
+severity,bell_severity
+service line,service_code
+product group,group_name

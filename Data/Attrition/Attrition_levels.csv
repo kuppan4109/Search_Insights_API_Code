@@ -1,0 +1,31 @@
+Attributes,Levels
+attrition,Yes
+attrition,No
+business_travel,Travel_Rarely
+business_travel,Travel_Frequently
+business_travel,Non-Travel
+department,Sales
+department,Research & Development
+department,Human Resources
+education_field,Life Sciences
+education_field,Other
+education_field,Medical
+education_field,Marketing
+education_field,Technical Degree
+education_field,Human Resources
+gender,Female
+gender,Male
+job_role,Sales Executive
+job_role,Research Scientist
+job_role,Laboratory Technician
+job_role,Manufacturing Director
+job_role,Healthcare Representative
+job_role,Manager
+job_role,Sales Representative
+job_role,Research Director
+job_role,Human Resources
+marital_status,Single
+marital_status,Married
+marital_status,Divorced
+over_time,Yes
+over_time,No

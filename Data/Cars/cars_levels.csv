@@ -1,0 +1,118 @@
+Attributes,Levels
+transmission_type,AUTOMATIC
+transmission_type,MANUAL
+transmission_type,AUTO_MANUAL
+vehicle_size,Large
+vehicle_size,Midsize
+vehicle_size,Compact
+driven_wheels,four wheel
+driven_wheels,rear wheel
+driven_wheels,front wheel
+driven_wheels,all wheel
+engine_ fuel_type,reg_unlead
+engine_ fuel_type,flex-fuel 
+engine_ fuel_type,pre_unlead 
+engine_ fuel_type,diesel
+engine_ fuel_type,natural gas
+market_category,Flex Fuel
+market_category,N/A
+market_category,Hybrid
+market_category,Luxury
+market_category,Factory Tuner
+market_category,Exotic
+market_category,Performance
+market_category,Hatchback
+market_category,Crossover
+market_category,High-Performance
+market_category,Diesel
+vehicle_style,Extended Cab Pickup
+vehicle_style,Regular Cab Pickup
+vehicle_style,Crew Cab Pickup
+vehicle_style,Sedan
+vehicle_style,Coupe
+vehicle_style,Convertible
+vehicle_style,4dr SUV
+vehicle_style,4dr Hatchback
+vehicle_style,Wagon
+vehicle_style,Passenger Van
+vehicle_style,2dr Hatchback
+vehicle_style,Passenger Minivan
+vehicle_style,Convertible SUV
+vehicle_style,Cargo Minivan
+vehicle_style,2dr SUV
+vehicle_style,Cargo Van
+year,2007.0
+year,2011.0
+year,2012.0
+year,2013.0
+year,2015.0
+year,2016.0
+year,2017.0
+year,1993.0
+year,1996.0
+year,1997.0
+year,1998.0
+year,2014.0
+year,2008.0
+year,2009.0
+year,1999.0
+year,2002.0
+year,2003.0
+year,1994.0
+year,1995.0
+year,2004.0
+year,2005.0
+year,2006.0
+year,1990.0
+year,1991.0
+year,1992.0
+year,2010.0
+year,2000.0
+year,2001.0
+make,Chevrolet
+make,Cadillac
+make,Buick
+make,Mercedes-Benz
+make,Acura
+make,Pontiac
+make,Hyundai
+make,GMC
+make,Kia
+make,Dodge
+make,Maserati
+make,Audi
+make,Nissan
+make,Plymouth
+make,Ferrari
+make,Bentley
+make,Toyota
+make,Subaru
+make,Suzuki
+make,Ford
+make,Chrysler
+make,Scion
+make,Volkswagen
+make,Oldsmobile
+make,Lincoln
+make,Mazda
+make,Aston Martin
+make,Volvo
+make,Mitsubishi
+make,Bugatti
+make,Rolls-Royce
+make,BMW
+make,FIAT
+make,Alfa Romeo
+make,McLaren
+make,Maybach
+make,Porsche
+make,Saab
+make,Honda
+make,Lamborghini
+make,Spyker
+make,Lexus
+make,Land Rover
+make,Lotus
+make,Infiniti
+make,Genesis
+make,HUMMER

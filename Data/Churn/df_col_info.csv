@@ -1,0 +1,64 @@
+alias,columns
+segment of churn,churn_segment
+score of churn,churn_score
+type of contract,contract_type
+churn segment,churn_segment
+segment churn,churn_segment
+score churn,churn_score
+churn score,churn_score
+contract type,contract_type
+type contract,contract_type
+onlinebackups,onlinebackup
+deviceprotection,deviceprotection
+deviceprotections,deviceprotection
+techsupport,techsupport
+techsupports,techsupport
+paperlessbilling,paperlessbilling
+streamingtvs,streamingtv
+streamingmovies,streamingmovies
+contract_type,contract_type
+streamingtv,streamingtv
+monthlycharges,monthlycharges
+paymentmethod,paymentmethod
+paymentmethods,paymentmethod
+customerids,customerid
+totalcharges,totalcharges
+churn_score,churn_score
+churn,churn
+butter_churn,churn
+boil,churn
+roil,churn
+moil,churn
+churns,churn
+churn_segment,churn_segment
+onlinebackup,onlinebackup
+customerid,customerid
+onlinesecurity,onlinesecurity
+spouse,partner
+gender,gender
+sexuality,gender
+sex,gender
+grammatical_gender,gender
+genders,gender
+seniorcitizen,seniorcitizen
+seniorcitizens,seniorcitizen
+partner,partner
+better_half,partner
+married_person,partner
+collaborator,partner
+pardner,partner
+partners,partner
+internetservices,internetservice
+dependents,dependents
+dependent,dependents
+dependant,dependents
+tenure,tenure
+land_tenure,tenure
+incumbency,tenure
+term_of_office,tenure
+tenures,tenure
+phoneservice,phoneservice
+phoneservices,phoneservice
+multiplelines,multiplelines
+internetservice,internetservice
+onlinesecurities,onlinesecurity

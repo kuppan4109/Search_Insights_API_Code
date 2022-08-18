@@ -1,0 +1,15 @@
+column_names,unique,min,mean,max,data_type,default_agg
+make,47.0,0.0,0.0,0.0,object,by
+year,28.0,0.0,0.0,0.0,object,by
+engine_ fuel_type,5.0,0.0,0.0,0.0,object,by
+engine_hp,0.0,55.0,249.3679803788904,1001.0,numeric,average
+engine_cylinders,0.0,3.0,5.655869418132611,16.0,numeric,average
+transmission_type,3.0,0.0,0.0,0.0,object,by
+driven_wheels,4.0,0.0,0.0,0.0,object,by
+number_of_doors,0.0,2.0,3.4354702300405955,4.0,numeric,average
+market_category,11.0,0.0,0.0,0.0,object,by
+vehicle_size,3.0,0.0,0.0,0.0,object,by
+vehicle_style,16.0,0.0,0.0,0.0,object,by
+highway_mpg,0.0,12.0,26.237567658998646,354.0,numeric,average
+city_mpg,0.0,7.0,19.218707713125845,58.0,numeric,average
+price,0.0,2000.0,40621.79812246279,2065902.0,numeric,average

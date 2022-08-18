@@ -1,0 +1,46 @@
+192.168.1.5:8091/savediteminsert
+{
+    "name":"sum of sales",
+	"dataset":"sales_tab"
+}
+
+192.168.1.5:8091/select
+
+192.168.1.5:8091/selectit
+{
+    "name":"sum of sales"
+	"dataset":"sales_tab"
+}
+
+192.168.1.5:8091/keyinsert
+{
+    "id":2,
+    "word":"tolal",
+    "arr":2
+}
+
+
+192.168.1.5:8091/saveditemidselect
+{
+    "itemid":"1",
+	"dataset":"sales_tab"
+}
+
+192.168.1.5:8091/keydelete
+{
+   "itemid":"2"
+}
+
+192.168.1.5:8091/saveditemdelete
+{
+    "itemid":"1"
+}
+
+
+192.168.1.5:8091/historyinsert
+{
+    "keyword":"sumofsales",
+	"dataset":"sales_tab"
+}
+
+192.168.1.5:8091/historyselect

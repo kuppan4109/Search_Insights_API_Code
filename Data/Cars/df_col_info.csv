@@ -1,0 +1,82 @@
+alias,columns
+category of market,market_category
+style of vehicle,vehicle_style
+type of transmission,transmission_type
+cylinders of engine,engine_cylinders
+of number doors,number_of_doors
+hp of engine,engine_hp
+type  fuel engine,engine_ fuel_type
+ fuel engine type,engine_ fuel_type
+engine  fuel type,engine_ fuel_type
+doors of number,number_of_doors
+number of doors,number_of_doors
+size of vehicle,vehicle_size
+wheels of driven,driven_wheels
+mpg of highway,highway_mpg
+mpg of city,city_mpg
+mpg highway,highway_mpg
+highway mpg,highway_mpg
+wheels driven,driven_wheels
+driven wheels,driven_wheels
+engine_ fuel_type,engine_ fuel_type
+type transmission,transmission_type
+transmission type,transmission_type
+engine cylinders,engine_cylinders
+hp engine,engine_hp
+engine hp,engine_hp
+engine  fuel,engine_ fuel_type
+cylinders engine,engine_cylinders
+number of,number_of_doors
+market category,market_category
+category market,market_category
+mpg city,city_mpg
+vehicle size,vehicle_size
+size vehicle,vehicle_size
+city mpg,city_mpg
+vehicle style,vehicle_style
+style vehicle,vehicle_style
+damage,price
+monetary_value,price
+cost,price
+Mary_Leontyne_Price,price
+terms,price
+toll,price
+make,make
+year,year
+price,price
+engine_hp,engine_hp
+engine_cylinders,engine_cylinders
+transmission_type,transmission_type
+driven_wheels,driven_wheels
+number_of_doors,number_of_doors
+market_category,market_category
+vehicle_size,vehicle_size
+vehicle_style,vehicle_style
+highway_mpg,highway_mpg
+city_mpg,city_mpg
+create,make
+years,year
+establish,make
+pee-pee,make
+realize,make
+do,make
+shit,make
+makes,make
+twelvemonth,year
+yr,year
+class,year
+prices,price
+brand,make
+company,make
+car price,price
+mileage,city_mpg
+city mileage,city_mpg
+highway mileage,highway_mpg
+style ,vehicle_style
+model,vehicle_style
+doors,number_of_doors
+horse power,engine_hp
+size,vehicle_size
+category,market_category
+fuel type,engine_ fuel_type
+cylinders,engine_cylinders

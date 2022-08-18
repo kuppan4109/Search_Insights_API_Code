@@ -1,0 +1,49 @@
+Attributes,Levels
+gender,Female
+gender,Male
+seniorcitizen,Yes
+seniorcitizen,No
+partner,Yes
+partner,No
+dependents,Yes
+dependents,No
+phoneservice,Yes
+phoneservice,No
+paperlessbilling,No
+paperlessbilling,Yes
+onlinesecurity,No internet service
+onlinesecurity,Yes
+onlinesecurity,No
+multiplelines,Yes
+multiplelines,No
+multiplelines,No phone service
+internetservice,No
+internetservice,Fiber optic
+internetservice,DSL
+onlinebackup,No
+onlinebackup,No internet service
+onlinebackup,Yes
+deviceprotection,No internet service
+deviceprotection,Yes
+deviceprotection,No
+techsupport,No internet service
+techsupport,Yes
+techsupport,No
+streamingtv,No internet service
+streamingtv,Yes
+streamingtv,No
+streamingmovies,No internet service
+streamingmovies,Yes
+streamingmovies,No
+contract_type,Two year
+contract_type,One year
+contract_type,Month-to-month
+paymentmethod,Credit card (automatic)
+paymentmethod,Bank transfer (automatic)
+paymentmethod,Mailed check
+paymentmethod,Electronic check
+Churn,Yes
+Churn,No
+Churn_segment,Attention Required
+Churn_segment,Take notice
+Churn_segment,Doing well
